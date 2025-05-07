@@ -1,14 +1,18 @@
 # Robotic-Sorting-System-based-on-Computer-Vision-and-TRIO
+- **Low-cost and easy to implement**
+https://github.com/user-attachments/assets/f0a8976e-d538-4854-97fa-50892ae36e9b
+
+
 
 ## Software
-- Motion Perfect
+- Motion Perfect 
 - Python IDE
 - DOBOT Robot Vision Kit
 
 ## Hardware
 - 4-DOF DOBOT robot
 - Hikvision industrial camera
-- FLEX-6-nano and FLEX 3AX TRIO motion controllers
+- FLEX-6-nano and FLEX 3AX TRIO motion controllers (control conveyor movement)
 - Stepper Motor Driver
 - I/O Modules
 - Photoelectric switch
