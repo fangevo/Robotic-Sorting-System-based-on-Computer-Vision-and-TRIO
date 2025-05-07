@@ -25,7 +25,10 @@ https://github.com/user-attachments/assets/5e34d5e4-ae08-4568-b4b2-f124edf825f0
 
 ## Dark Factory
 A fully automated parts assembly factory designed by students of the Robot Engineering program at Yanshan University. This project is part of the fully automated factory.
-https://github.com/user-attachments/assets/987dcdb9-28f1-4fd8-8a53-ff2b55e1681d
+
+https://github.com/user-attachments/assets/d72f875c-0bdd-43a2-928a-2cabb5181432
+
+
 
 
 
