@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contents>
+  <Content Name="Project">
+    <Project>
+      <Items>
+        <Item Type="textFile" Name="EC_EXTEND" />
+        <Item Type="mcConfig" Name="MC_CONFIG" />
+        <Item Type="basic" Name="GO" />
+        <Item Type="basic" Name="GO1" />
+        <Item Type="basic" Name="CANCEL" />
+      </Items>
+    </Project>
+  </Content>
+</Contents>

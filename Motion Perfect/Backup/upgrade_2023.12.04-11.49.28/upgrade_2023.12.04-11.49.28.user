@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contents>
+  <Content Name="tool_ControllerTreeControl">
+    <Tool>
+      <UIState>
+        <Element Name="__tviItemsTool" IsExpanded="True" />
+        <Element Name="__tviItemsSync" IsExpanded="True" />
+        <Element Name="__tviTempItems" IsExpanded="False" />
+        <Element Name="__tviAxes" IsExpanded="False" />
+        <Element Name="__tviMemory" IsExpanded="False" />
+        <Element Name="__tviModules" IsExpanded="False" />
+        <Element Name="__tviConfig" IsExpanded="False" />
+        <Element Name="__tviEnabledFeatures" IsExpanded="False" />
+        <Element Name="__tviCommunications" IsExpanded="False" />
+        <Element Name="__tviDebugInfo" IsExpanded="False" />
+      </UIState>
+    </Tool>
+  </Content>
+  <Content Name="ToolBarSettings_basic">
+    <Content>
+      <ToolBarDebug Band="0" BandIndex="1" />
+      <ToolBarEdit Band="0" BandIndex="0" />
+    </Content>
+  </Content>
+  <Content Name="Document_Program_BUJIN_DAT">
+    <Document />
+  </Content>
+  <Content Name="Document_Program_RUN">
+    <Document />
+  </Content>
+  <Content Name="Document_Program_SET">
+    <Document />
+  </Content>
+  <Content Name="Document_Program_SIFU_RUANXIANWEI">
+    <Document />
+  </Content>
+  <Content Name="tool_IntelligentDrivesControl">
+    <Tool SelectedSlot="-1" />
+  </Content>
+  <Content Name="Document_Program_STOP">
+    <Document />
+  </Content>
+  <Content Name="Document_Program_VARIABLES">
+    <Document />
+  </Content>
+  <Content Name="Document_Program_CHUMOPING">
+    <Document />
+  </Content>
+  <Content Name="Document_Program_BUJIN_LOOP">
+    <Document />
+  </Content>
+  <Content Name="Document_Program_BUJIN_GUANGDIAN">
+    <Document />
+  </Content>
+  <Content Name="Document_Program_SIFU_GUANGDIAN">
+    <Document />
+  </Content>
+  <Content Name="Document_Program_FIND_BASE">
+    <Document />
+  </Content>
+  <Content Name="Document_MC_CONFIG_MC_CONFIG">
+    <Document Title="（全部）" />
+  </Content>
+  <Content Name="tool_EtherCATDeviceControl_4278190082">
+    <Tool>
+      <UIState>
+        <SelectedTabIndex>3</SelectedTabIndex>
+        <CollapsedTabIndeces></CollapsedTabIndeces>
+      </UIState>
+    </Tool>
+  </Content>
+  <Content Name="Document_Program_SIFU_DAT">
+    <Document />
+  </Content>
+  <Content Name="tool_VRViewerControl">
+    <Tool DisplayAs="0" />
+  </Content>
+  <Content Name="Document_Program_RECEIVE">
+    <Document />
+  </Content>
+  <Content Name="Document_Program_SIFU_STOP">
+    <Document />
+  </Content>
+  <Content Name="Document_Program_BUJIN_STOP">
+    <Document />
+  </Content>
+  <Content Name="Document_Program_SIFU_LOOP">
+    <Document />
+  </Content>
+  <Content Name="pos_tool_ControllerTreeControl">
+    <PositionSettings IsDocked="true" AnchorStyle="Left" SizeToContent="Manual" ResizeMode="CanResize" Left="0" Top="0" Width="0" Height="0" DockWidth="300" DockHeight="300" />
+  </Content>
+  <Content Name="pos_tool_AxisParametersControl">
+    <PositionSettings IsDocked="false" AnchorStyle="Right" SizeToContent="Width" ResizeMode="CanResize" Left="NaN" Top="NaN" Width="300" Height="300" DockWidth="300" DockHeight="300" />
+  </Content>
+  <Content Name="pos_tool_VRViewerControl">
+    <PositionSettings IsDocked="false" AnchorStyle="Right" SizeToContent="Manual" ResizeMode="CanResize" Left="NaN" Top="NaN" Width="200" Height="600" DockWidth="300" DockHeight="300" />
+  </Content>
+  <Content Name="pos_tool_OutputWindow">
+    <PositionSettings IsDocked="true" AnchorStyle="Bottom" SizeToContent="Manual" ResizeMode="CanResize" Left="NaN" Top="NaN" Width="300" Height="300" DockWidth="300" DockHeight="300" />
+  </Content>
+  <Content Name="pos_tool_CompileCheckControl">
+    <PositionSettings IsDocked="true" AnchorStyle="Bottom" SizeToContent="Manual" ResizeMode="CanResize" Left="NaN" Top="NaN" Width="300" Height="300" DockWidth="300" DockHeight="300" />
+  </Content>
+  <Content Name="pos_tool_TerminalControl_0">
+    <PositionSettings IsDocked="true" AnchorStyle="Right" SizeToContent="Manual" ResizeMode="CanResize" Left="NaN" Top="NaN" Width="300" Height="300" DockWidth="300" DockHeight="300" />
+  </Content>
+  <Content Name="pos_tool_TerminalControl_5">
+    <PositionSettings IsDocked="true" AnchorStyle="Right" SizeToContent="Manual" ResizeMode="CanResize" Left="NaN" Top="NaN" Width="300" Height="300" DockWidth="300" DockHeight="300" />
+  </Content>
+</Contents>

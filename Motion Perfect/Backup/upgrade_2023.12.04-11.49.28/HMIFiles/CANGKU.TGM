@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TGM VerMajor="1" VerMinor="0">
+  <Device Platform="WindowsCE" MinPlatformVersion="1" MinClientVersion="1.30.1.1935" LegacyTextBoxMode="False" ScreenResolution="1024,600" StartupPage="ZHUYE">
+    <Pages>
+      <Page File="CANGKU.TGD" />
+      <Page File="CHOSE.TGD" />
+      <Page File="PLAN1.TGD" />
+      <Page File="PLAN2.TGD" />
+      <Page File="PLAN3.TGD" />
+      <Page File="PLAN4.TGD" />
+      <Page File="PLAN5.TGD" />
+      <Page File="PLAN6.TGD" />
+      <Page File="RUN.TGD" />
+      <Page File="TIAOSU.TGD" />
+      <Page File="ZHUYE.TGD" />
+    </Pages>
+    <Images AutoPurge="False">
+      <Image File="方案一.PNG" />
+      <Image File="方案三.PNG" />
+      <Image File="方案二.PNG" />
+      <Image File="方案五.PNG" />
+      <Image File="方案六.PNG" />
+      <Image File="方案四.PNG" />
+    </Images>
+    <TGT>
+      <Assemblies>
+        <Assembly FulName="HMIComponents, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null">
+          <Components>
+            <Component>
+              <Type>Trio.HMIComponents.Editor.HMIEditorControl</Type>
+              <Properties>
+                <Property>
+                  <Type>System.Int32</Type>
+                  <Name>BindingRefreshPeriod</Name>
+                  <DefaultValue>250</DefaultValue>
+                </Property>
+              </Properties>
+            </Component>
+          </Components>
+        </Assembly>
+        <Assembly FulName="HMIClient, Version=1.30.0.1903, Culture=neutral, PublicKeyToken=null">
+          <Components>
+            <Component>
+              <Type>Trio.HMI.Controls.TVBButton</Type>
+              <Properties>
+                <Property>
+                  <Type>System.Boolean</Type>
+                  <Name>Enabled</Name>
+                  <DefaultValue>true</DefaultValue>
+                </Property>
+                <Property>
+                  <Type>System.Drawing.Font</Type>
+                  <Name>Font</Name>
+                  <DefaultValue>Tahoma:20:0</DefaultValue>
+                </Property>
+                <Property>
+                  <Type>System.Int32</Type>
+                  <Name>Height</Name>
+                  <DefaultValue>40</DefaultValue>
+                </Property>
+                <Property>
+                  <Type>System.Boolean</Type>
+                  <Name>Visible</Name>
+                  <DefaultValue>true</DefaultValue>
+                </Property>
+                <Property>
+                  <Type>System.Int32</Type>
+                  <Name>Width</Name>
+                  <DefaultValue>120</DefaultValue>
+                </Property>
+              </Properties>
+            </Component>
+            <Component>
+              <Type>Trio.HMI.Controls.TVBLabel</Type>
+              <Properties>
+                <Property>
+                  <Type>Trio.HMI.Controls.TVBTextFormat</Type>
+                  <Name>FormatType</Name>
+                  <DefaultValue>FORMAT_TEXT</DefaultValue>
+                </Property>
+                <Property>
+                  <Type>System.Drawing.ContentAlignment</Type>
+                  <Name>TextAlign</Name>
+                  <DefaultValue>TopLeft</DefaultValue>
+                </Property>
+                <Property>
+                  <Type>System.Drawing.Font</Type>
+                  <Name>Font</Name>
+                  <DefaultValue>Tahoma:20:0</DefaultValue>
+                </Property>
+                <Property>
+                  <Type>System.Boolean</Type>
+                  <Name>Visible</Name>
+                  <DefaultValue>true</DefaultValue>
+                </Property>
+              </Properties>
+            </Component>
+            <Component>
+              <Type>Trio.HMI.Controls.TVBPanel</Type>
+              <Properties>
+                <Property>
+                  <Type>System.Boolean</Type>
+                  <Name>Enabled</Name>
+                  <DefaultValue>true</DefaultValue>
+                </Property>
+                <Property>
+                  <Type>System.Boolean</Type>
+                  <Name>Visible</Name>
+                  <DefaultValue>true</DefaultValue>
+                </Property>
+              </Properties>
+            </Component>
+            <Component>
+              <Type>Trio.HMI.Controls.TVBRadioButton</Type>
+              <Properties>
+                <Property>
+                  <Type>System.Boolean</Type>
+                  <Name>Enabled</Name>
+                  <DefaultValue>true</DefaultValue>
+                </Property>
+                <Property>
+                  <Type>System.Drawing.Font</Type>
+                  <Name>Font</Name>
+                  <DefaultValue>Tahoma:20:0</DefaultValue>
+                </Property>
+                <Property>
+                  <Type>System.Boolean</Type>
+                  <Name>Visible</Name>
+                  <DefaultValue>true</DefaultValue>
+                </Property>
+                <Property>
+                  <Type>System.Int32</Type>
+                  <Name>Width</Name>
+                  <DefaultValue>140</DefaultValue>
+                </Property>
+              </Properties>
+            </Component>
+            <Component>
+              <Type>Trio.HMI.Controls.TVBPictureBox</Type>
+              <Properties>
+                <Property>
+                  <Type>System.Boolean</Type>
+                  <Name>Enabled</Name>
+                  <DefaultValue>true</DefaultValue>
+                </Property>
+                <Property>
+                  <Type>System.Boolean</Type>
+                  <Name>Visible</Name>
+                  <DefaultValue>true</DefaultValue>
+                </Property>
+              </Properties>
+            </Component>
+          </Components>
+        </Assembly>
+      </Assemblies>
+    </TGT>
+  </Device>
+</TGM>

@@ -1,0 +1,6 @@
+begin:
+IF IN(1)= ON THEN
+CANCEL AXIS(1)
+CANCEL AXIS(0)
+ENDIF
+GOTO begin

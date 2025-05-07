@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Version="1" VersionMinor="1" ProductId="600" ProductName="Flex-6 Nano">
+    <Environment>
+        <Software SoftwareVersion="4.4.1.19638" />
+        <Controller ControllerVersion="2.0298" ControllerFPGAVersion="0">
+            <Modules>
+                <Module ModuleId="42" FPGAVersion="0" />
+            </Modules>
+        </Controller>
+    </Environment>
+    <Items>
+        <Item Type="basic" Name="BUJIN_DAT" FileName="BUJIN_DAT.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="basic" Name="BUJIN_GUANGDIAN" FileName="BUJIN_GUANGDIAN.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="basic" Name="BUJIN_LOOP" FileName="BUJIN_LOOP.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="basic" Name="BUJIN_STOP" FileName="BUJIN_STOP.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="HMI" Name="CANGKU.HMI" FileName="CANGKU.HMI" Storage="internalStorage" />
+        <Item Type="basic" Name="CHUMOPING" FileName="CHUMOPING.BAS" Storage="internalStorage" Autorun="3" IsAutorun="True" />
+        <Item Type="textFile" Name="EC_EXTEND" FileName="EC_EXTEND.TXT" Storage="internalStorage" />
+        <Item Type="basic" Name="FIND_BASE" FileName="FIND_BASE.BAS" Storage="internalStorage" Autorun="10" IsAutorun="False" />
+        <Item Type="mcConfig" Name="MC_CONFIG" FileName="MC_CONFIG.MCC" Storage="internalStorage" />
+        <Item Type="basic" Name="RECEIVE" FileName="RECEIVE.BAS" Storage="internalStorage" Autorun="2" IsAutorun="True" />
+        <Item Type="basic" Name="RUN" FileName="RUN.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="basic" Name="SET" FileName="SET.BAS" Storage="internalStorage" Autorun="10" IsAutorun="False" />
+        <Item Type="basic" Name="SIFU_DAT" FileName="SIFU_DAT.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="basic" Name="SIFU_GUANGDIAN" FileName="SIFU_GUANGDIAN.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="basic" Name="SIFU_LOOP" FileName="SIFU_LOOP.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="basic" Name="SIFU_RUANXIANWEI" FileName="SIFU_RUANXIANWEI.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="basic" Name="SIFU_STOP" FileName="SIFU_STOP.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="basic" Name="STOP" FileName="STOP.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="basic" Name="VARIABLES" FileName="VARIABLES.BAS" Storage="internalStorage" Autorun="5" IsAutorun="True" />
+    </Items>
+</Project>

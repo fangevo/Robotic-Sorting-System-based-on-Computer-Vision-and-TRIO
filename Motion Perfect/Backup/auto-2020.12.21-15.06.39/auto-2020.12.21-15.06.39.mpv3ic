@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contents>
+  <Content Name="tool_ControllerTreeControl">
+    <Tool IsPeriodicUpdateEnabled="true" />
+  </Content>
+  <Content Name="Document_Program_BUJIN_DAT" />
+  <Content Name="tool_AxisParametersControl">
+    <Tool IsPeriodicUpdateEnabled="true" DisplayAs="0">
+      <AxesInUse>
+        <Index>0</Index>
+        <Index>1</Index>
+      </AxesInUse>
+      <Groups>
+        <Group Name="Misc" IsExpanded="false" />
+      </Groups>
+    </Tool>
+  </Content>
+  <Content Name="Document_Program_RUN" />
+  <Content Name="Document_Program_SET" />
+  <Content Name="Document_Program_SIFU_RUANXIANWEI" />
+  <Content Name="tool_IntelligentDrivesControl">
+    <Tool IsPeriodicUpdateEnabled="true" />
+  </Content>
+  <Content Name="Document_Program_STOP" />
+  <Content Name="Document_Program_VARIABLES" />
+  <Content Name="Document_Program_CHUMOPING" />
+  <Content Name="tool_FindReplaceWindow">
+    <Tool MainMode="FindInProject">
+      <Options MatchWholeWord="false" MatchCase="false" SearchUp="false" UseRegularExpressions="false">
+        <TargetItemTypes Mode="All" />
+      </Options>
+    </Tool>
+  </Content>
+  <Content Name="Document_Program_BUJIN_LOOP" />
+  <Content Name="Document_Program_BUJIN_GUANGDIAN" />
+  <Content Name="Document_Program_SIFU_GUANGDIAN" />
+  <Content Name="Document_Program_FIND_BASE" />
+  <Content Name="tool_DigitalIOControl">
+    <Tool IsPeriodicUpdateEnabled="true" />
+  </Content>
+  <Content Name="tool_OscilloscopeControl">
+    <Tool CurrentProfile="Profile 0">
+      <Config TriggerMode="Single" IsProgramTriggering="false" MaxChunkSize="8" TimePerDivision="1" ViewMode="Yt" DisplayTextInfo="false" IsExpanded="true" IsAutoHide="false" UseScopeDelay="false" ScopeDelay="0">
+        <ScopeTableInfo SamplesPerDivision="20" PointsPerDivision="10" FitToDisplay="false" IsAutoSamplesDataRangeStartAddress="true" SamplesDataRangeStartAddress="0" UseAutoReArm="true" Use_FIFO="false" FIFOName="MC_SCOPE_FIFO">
+          <BlockDataRanges>
+            <ScopeTableDataRange StartAddress="0" EndAddress="-1" Step="1" />
+            <ScopeTableDataRange StartAddress="0" EndAddress="-1" Step="1" />
+            <ScopeTableDataRange StartAddress="0" EndAddress="-1" Step="1" />
+            <ScopeTableDataRange StartAddress="0" EndAddress="-1" Step="1" />
+          </BlockDataRanges>
+        </ScopeTableInfo>
+      </Config>
+      <ViewerSettings>
+        <TraceColors Count="6" />
+        <CursorColors Count="6" />
+      </ViewerSettings>
+      <View3DSettings />
+      <TraceInfos>
+        <TraceInfo State="Off" ParamName="DPOS" ContextIndex="-1" NullableContextIndex="" Range="1" LockRanges="false" IsInDegrees="true" Offset="0" AutoCentre="false" />
+        <TraceInfo State="Off" ParamName="DPOS" ContextIndex="-1" NullableContextIndex="" Range="1" LockRanges="false" IsInDegrees="true" Offset="0" AutoCentre="false" />
+        <TraceInfo State="Off" ParamName="DPOS" ContextIndex="-1" NullableContextIndex="" Range="1" LockRanges="false" IsInDegrees="true" Offset="0" AutoCentre="false" />
+        <TraceInfo State="Off" ParamName="DPOS" ContextIndex="-1" NullableContextIndex="" Range="1" LockRanges="false" IsInDegrees="true" Offset="0" AutoCentre="false" />
+        <TraceInfo State="Off" ParamName="DPOS" ContextIndex="-1" NullableContextIndex="" Range="1" LockRanges="false" IsInDegrees="true" Offset="0" AutoCentre="false" />
+        <TraceInfo State="Off" ParamName="DPOS" ContextIndex="-1" NullableContextIndex="" Range="1" LockRanges="false" IsInDegrees="true" Offset="0" AutoCentre="false" />
+      </TraceInfos>
+      <CursorInfos>
+        <CursorInfo IsVisible="false" Position="0.2" TraceIndex="-1" />
+        <CursorInfo IsVisible="false" Position="0.4" TraceIndex="-1" />
+        <CursorInfo IsVisible="false" Position="0.60000000000000009" TraceIndex="-1" />
+        <CursorInfo IsVisible="false" Position="0.8" TraceIndex="-1" />
+        <CursorInfo IsVisible="false" Position="1" TraceIndex="-1" />
+        <CursorInfo IsVisible="false" Position="1.2000000000000002" TraceIndex="-1" />
+      </CursorInfos>
+      <Profiles>
+        <Profile Name="Profile 0">
+          <Config TriggerMode="Single" IsProgramTriggering="false" MaxChunkSize="8" TimePerDivision="1" ViewMode="Yt" DisplayTextInfo="false" IsExpanded="true" IsAutoHide="false" UseScopeDelay="false" ScopeDelay="0">
+            <ScopeTableInfo SamplesPerDivision="20" PointsPerDivision="10" FitToDisplay="false" IsAutoSamplesDataRangeStartAddress="true" SamplesDataRangeStartAddress="0" UseAutoReArm="true" Use_FIFO="false" FIFOName="MC_SCOPE_FIFO">
+              <BlockDataRanges>
+                <ScopeTableDataRange StartAddress="0" EndAddress="-1" Step="1" />
+                <ScopeTableDataRange StartAddress="0" EndAddress="-1" Step="1" />
+                <ScopeTableDataRange StartAddress="0" EndAddress="-1" Step="1" />
+                <ScopeTableDataRange StartAddress="0" EndAddress="-1" Step="1" />
+              </BlockDataRanges>
+            </ScopeTableInfo>
+          </Config>
+          <ViewerSettings>
+            <TraceColors Count="6" />
+            <CursorColors Count="6" />
+          </ViewerSettings>
+          <View3DSettings />
+          <TraceInfos>
+            <TraceInfo State="Off" ParamName="DPOS" ContextIndex="-1" NullableContextIndex="" Range="1" LockRanges="false" IsInDegrees="true" Offset="0" AutoCentre="false" />
+            <TraceInfo State="Off" ParamName="DPOS" ContextIndex="-1" NullableContextIndex="" Range="1" LockRanges="false" IsInDegrees="true" Offset="0" AutoCentre="false" />
+            <TraceInfo State="Off" ParamName="DPOS" ContextIndex="-1" NullableContextIndex="" Range="1" LockRanges="false" IsInDegrees="true" Offset="0" AutoCentre="false" />
+            <TraceInfo State="Off" ParamName="DPOS" ContextIndex="-1" NullableContextIndex="" Range="1" LockRanges="false" IsInDegrees="true" Offset="0" AutoCentre="false" />
+            <TraceInfo State="Off" ParamName="DPOS" ContextIndex="-1" NullableContextIndex="" Range="1" LockRanges="false" IsInDegrees="true" Offset="0" AutoCentre="false" />
+            <TraceInfo State="Off" ParamName="DPOS" ContextIndex="-1" NullableContextIndex="" Range="1" LockRanges="false" IsInDegrees="true" Offset="0" AutoCentre="false" />
+          </TraceInfos>
+          <CursorInfos>
+            <CursorInfo IsVisible="false" Position="0.2" TraceIndex="-1" />
+            <CursorInfo IsVisible="false" Position="0.4" TraceIndex="-1" />
+            <CursorInfo IsVisible="false" Position="0.60000000000000009" TraceIndex="-1" />
+            <CursorInfo IsVisible="false" Position="0.8" TraceIndex="-1" />
+            <CursorInfo IsVisible="false" Position="1" TraceIndex="-1" />
+            <CursorInfo IsVisible="false" Position="1.2000000000000002" TraceIndex="-1" />
+          </CursorInfos>
+        </Profile>
+      </Profiles>
+    </Tool>
+  </Content>
+  <Content Name="Document_MC_CONFIG_MC_CONFIG" />
+  <Content Name="tool_Visualization3DToolControl">
+    <Tool>
+      <ModelPath />
+      <Engine3D FillMode="Solid" ShowCS="true" ShowGrid="false">
+        <Camera3D Zoom="1" Perspective="false" Pivot="0,0,0" Orientation="0.5,0.5,0.5,-0.5" />
+      </Engine3D>
+    </Tool>
+  </Content>
+  <Content Name="tool_EtherCATDeviceControl_4278190082">
+    <Tool IsPeriodicUpdateEnabled="true" SelectedCategoryName="">
+      <Extension />
+    </Tool>
+  </Content>
+  <Content Name="Document_Program_SIFU_DAT" />
+  <Content Name="tool_VRViewerControl">
+    <Tool IsPeriodicUpdateEnabled="true">
+      <Ranges>
+        <Range StartAddress="0" EndAddress="99" IsExpanded="true" Description="" />
+      </Ranges>
+    </Tool>
+  </Content>
+  <Content Name="TableRangeEditDlgSettings">
+    <RecentRanges_VR>
+      <Range StartAddress="0" EndAddress="99" Description="" />
+    </RecentRanges_VR>
+  </Content>
+  <Content Name="Document_Program_RECEIVE" />
+  <Content Name="tool_AnalogueIOControl">
+    <Tool IsPeriodicUpdateEnabled="true" />
+  </Content>
+  <Content Name="Document_Program_SIFU_STOP" />
+  <Content Name="Document_Program_BUJIN_STOP" />
+  <Content Name="Document_Program_SIFU_LOOP" />
+</Contents>

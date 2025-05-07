@@ -1,0 +1,21 @@
+WHILE TRUE
+    IF IN(15)=1 THEN
+        CANCEL(0)
+        CANCEL(1)
+        STOP "BUJIN_LOOP"
+        GOSUB bujinchuangan
+
+    ENDIF
+WEND
+
+bujinchuangan:
+BASE(1)
+CANCEL(0)
+CANCEL(1)
+WAIT IDLE
+MOVEABS(130)
+WAIT IDLE
+WA(120000)
+WAIT IDLE
+RUN "BUJIN_LOOP",11
+RETURN

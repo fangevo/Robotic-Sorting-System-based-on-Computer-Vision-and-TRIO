@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MotionPerfectLayout>
+  <Contents>
+    <Content Name="document_7ce5fb73744a42be822583f3490a2f72">
+      <Program Name="FIND_BASE" Process="-1" />
+    </Content>
+    <Content Name="document_c676cf147d7a4e8286075d300489380c">
+      <Program Name="RECEIVE" Process="19" />
+    </Content>
+    <Content Name="document_57106394966449c1883fc4dfd137515e">
+      <Program Name="CHUMOPING" Process="20" />
+    </Content>
+    <Content Name="document_91a7b2db319048bf8f5b29d86ee3275a">
+      <Program Name="STOP" Process="-1" />
+    </Content>
+    <Content Name="document_1ee50b10d72b42eebde7e33e486df799">
+      <Program Name="VARIABLES" Process="-1" />
+    </Content>
+    <Content Name="document_9e0db12a55c0443f933249fdc5db9fd6">
+      <Program Name="SIFU_GUANGDIAN" Process="-1" />
+    </Content>
+    <Content Name="document_eefca0c7f9a34f81bc2d5476b38e7f55">
+      <Program Name="BUJIN_GUANGDIAN" Process="-1" />
+    </Content>
+    <Content Name="document_d2dfaf76d50b47afa06208f248d7ed94">
+      <HMIPage PageName="CANGKU" DesignName="CANGKU.HMI" />
+    </Content>
+    <Content Name="document_7f98343256614e72820e73354ac5bead">
+      <Program Name="SIFU_LOOP" Process="-1" />
+    </Content>
+    <Content Name="document_277fa01da53e4e509e7ed6bdea0e981b">
+      <Program Name="BUJIN_STOP" Process="-1" />
+    </Content>
+    <Content Name="document_b123e58712ee47eaba0e0239ac808e3b">
+      <Program Name="BUJIN_LOOP" Process="-1" />
+    </Content>
+    <Content Name="document_476e690cf62a442086fd9c50b31024fb">
+      <Program Name="BUJIN_DAT" Process="-1" />
+    </Content>
+    <Content Name="document_0e40174f9c6f4a2b93621576ccf052c3">
+      <Program Name="SIFU_DAT" Process="-1" />
+    </Content>
+    <Content Name="document_f2c0f7d6c80c44e09bb6d34e91521747">
+      <Program Name="SIFU_RUANXIANWEI" Process="-1" />
+    </Content>
+    <Content Name="document_3ee470a0c475450e85365f30f46a9e8d">
+      <Program Name="SIFU_STOP" Process="-1" />
+    </Content>
+    <Content Name="document_e794e55f4a9a465b965257d9122505d2">
+      <Program Name="SET" Process="-1" />
+    </Content>
+    <Content Name="document_39cce83edefe47e6853557af3fdb6f60">
+      <Program Name="RUN" Process="-1" />
+    </Content>
+    <Content Name="document_e1ce030320424c95a354b4b492e8d80c">
+      <HMIPage PageName="PLAN6" DesignName="CANGKU.HMI" />
+    </Content>
+    <Content Name="document_86c22ff339674b0a996a4ec0e8f867d9">
+      <HMIPage PageName="PLAN5" DesignName="CANGKU.HMI" />
+    </Content>
+    <Content Name="document_7467c9840b4840a0ad8fe476fd36aa1a">
+      <HMIPage PageName="PLAN4" DesignName="CANGKU.HMI" />
+    </Content>
+    <Content Name="document_33133afba95c41839cea422f64c69469">
+      <HMIPage PageName="PLAN3" DesignName="CANGKU.HMI" />
+    </Content>
+    <Content Name="document_31de8c04cf0447e9b5dcb71d453e0ccd">
+      <HMIPage PageName="PLAN2" DesignName="CANGKU.HMI" />
+    </Content>
+    <Content Name="document_3b6677b6987941c790d785f617163e18">
+      <HMIPage PageName="PLAN1" DesignName="CANGKU.HMI" />
+    </Content>
+    <Content Name="document_fb69f4ebfbe54869893fd126aedc792f">
+      <HMIPage PageName="ZHUYE" DesignName="CANGKU.HMI" />
+    </Content>
+    <Content Name="document_8fcd454c39794b59b5c7d633550762fd">
+      <HMIPage PageName="CHOSE" DesignName="CANGKU.HMI" />
+    </Content>
+    <Content Name="document_9ca47de89ae441c2a7b6ecc1553a66fe">
+      <HMIPage PageName="RUN" DesignName="CANGKU.HMI" />
+    </Content>
+    <Content Name="document_2d5daae9b5e549dba0cc60ee66cce738">
+      <HMIPage PageName="TIAOSU" DesignName="CANGKU.HMI" />
+    </Content>
+  </Contents>
+  <LayoutRoot>
+    <RootPanel Orientation="Vertical">
+      <LayoutPanel Orientation="Horizontal">
+        <LayoutAnchorablePaneGroup Orientation="Vertical" DockWidth="320">
+          <LayoutAnchorablePane Id="5b3c7208-2837-433d-b251-d0cef0f43ac7" DockWidth="320" FloatingWidth="300" FloatingHeight="200" FloatingLeft="NaN" FloatingTop="NaN">
+            <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="控制器" IsSelected="True" ContentId="tool_ControllerTreeControl" LastActivationTimeStamp="12/19/2020 20:44:16" />
+          </LayoutAnchorablePane>
+        </LayoutAnchorablePaneGroup>
+        <LayoutPanel Orientation="Vertical">
+          <LayoutDocumentPaneGroup Orientation="Horizontal">
+            <LayoutDocumentPane Id="e2396273-b91b-4240-9348-9a70ef374cc0">
+              <LayoutDocument Title="FIND_BASE" ContentId="document_7ce5fb73744a42be822583f3490a2f72" LastActivationTimeStamp="12/19/2020 16:51:28" />
+              <LayoutDocument Title="RECEIVE 19" ContentId="document_c676cf147d7a4e8286075d300489380c" LastActivationTimeStamp="12/19/2020 20:33:35" />
+              <LayoutDocument Title="CHUMOPING 20" IsSelected="True" IsLastFocusedDocument="True" ContentId="document_57106394966449c1883fc4dfd137515e" LastActivationTimeStamp="12/19/2020 20:44:16" />
+              <LayoutDocument Title="STOP" ContentId="document_91a7b2db319048bf8f5b29d86ee3275a" LastActivationTimeStamp="12/19/2020 14:39:26" />
+              <LayoutDocument Title="VARIABLES" ContentId="document_1ee50b10d72b42eebde7e33e486df799" LastActivationTimeStamp="12/19/2020 16:49:39" />
+              <LayoutDocument Title="SIFU_GUANGDIAN" ContentId="document_9e0db12a55c0443f933249fdc5db9fd6" LastActivationTimeStamp="12/19/2020 11:09:58" />
+              <LayoutDocument Title="BUJIN_GUANGDIAN" ContentId="document_eefca0c7f9a34f81bc2d5476b38e7f55" LastActivationTimeStamp="12/19/2020 11:07:52" />
+              <LayoutDocument Title="CANGKU" ContentId="document_d2dfaf76d50b47afa06208f248d7ed94" LastActivationTimeStamp="12/19/2020 11:07:30" />
+              <LayoutDocument Title="SIFU_LOOP" ContentId="document_7f98343256614e72820e73354ac5bead" LastActivationTimeStamp="12/18/2020 19:30:51" />
+              <LayoutDocument Title="BUJIN_STOP" ContentId="document_277fa01da53e4e509e7ed6bdea0e981b" LastActivationTimeStamp="12/18/2020 19:26:56" />
+              <LayoutDocument Title="BUJIN_LOOP" ContentId="document_b123e58712ee47eaba0e0239ac808e3b" LastActivationTimeStamp="12/18/2020 19:26:03" />
+              <LayoutDocument Title="BUJIN_DAT" ContentId="document_476e690cf62a442086fd9c50b31024fb" LastActivationTimeStamp="12/18/2020 19:21:12" />
+              <LayoutDocument Title="SIFU_DAT" ContentId="document_0e40174f9c6f4a2b93621576ccf052c3" LastActivationTimeStamp="12/18/2020 19:30:21" />
+              <LayoutDocument Title="SIFU_RUANXIANWEI" ContentId="document_f2c0f7d6c80c44e09bb6d34e91521747" LastActivationTimeStamp="12/18/2020 19:20:49" />
+              <LayoutDocument Title="SIFU_STOP" ContentId="document_3ee470a0c475450e85365f30f46a9e8d" LastActivationTimeStamp="12/18/2020 19:20:47" />
+              <LayoutDocument Title="SET" ContentId="document_e794e55f4a9a465b965257d9122505d2" LastActivationTimeStamp="12/18/2020 19:20:19" />
+              <LayoutDocument Title="RUN" ContentId="document_39cce83edefe47e6853557af3fdb6f60" LastActivationTimeStamp="12/18/2020 16:09:30" />
+              <LayoutDocument Title="PLAN6" ContentId="document_e1ce030320424c95a354b4b492e8d80c" LastActivationTimeStamp="12/18/2020 15:29:09" />
+              <LayoutDocument Title="PLAN5" ContentId="document_86c22ff339674b0a996a4ec0e8f867d9" LastActivationTimeStamp="12/18/2020 15:29:01" />
+              <LayoutDocument Title="PLAN4" ContentId="document_7467c9840b4840a0ad8fe476fd36aa1a" LastActivationTimeStamp="12/18/2020 15:28:50" />
+              <LayoutDocument Title="PLAN3" ContentId="document_33133afba95c41839cea422f64c69469" LastActivationTimeStamp="12/18/2020 15:28:41" />
+              <LayoutDocument Title="PLAN2" ContentId="document_31de8c04cf0447e9b5dcb71d453e0ccd" LastActivationTimeStamp="12/18/2020 15:28:30" />
+              <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="查看VR" ContentId="tool_VRViewerControl" FloatingLeft="674" FloatingTop="83" FloatingWidth="200" FloatingHeight="609" LastActivationTimeStamp="12/18/2020 15:24:29" />
+              <LayoutDocument Title="PLAN1" ContentId="document_3b6677b6987941c790d785f617163e18" LastActivationTimeStamp="12/18/2020 15:28:01" />
+              <LayoutDocument Title="ZHUYE" ContentId="document_fb69f4ebfbe54869893fd126aedc792f" LastActivationTimeStamp="12/18/2020 15:18:22" />
+              <LayoutDocument Title="CHOSE" ContentId="document_8fcd454c39794b59b5c7d633550762fd" LastActivationTimeStamp="12/18/2020 15:27:51" />
+              <LayoutDocument Title="RUN" ContentId="document_9ca47de89ae441c2a7b6ecc1553a66fe" LastActivationTimeStamp="12/18/2020 14:36:08" />
+              <LayoutDocument Title="TIAOSU" ContentId="document_2d5daae9b5e549dba0cc60ee66cce738" LastActivationTimeStamp="12/18/2020 10:36:33" />
+            </LayoutDocumentPane>
+          </LayoutDocumentPaneGroup>
+          <LayoutAnchorablePaneGroup Orientation="Horizontal" DockHeight="155">
+            <LayoutAnchorablePane DockHeight="155">
+              <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="输出" IsSelected="True" ContentId="tool_OutputWindow" LastActivationTimeStamp="12/19/2020 20:04:14" />
+            </LayoutAnchorablePane>
+            <LayoutAnchorablePane>
+              <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="编译/检查结果" IsSelected="True" ContentId="tool_CompileCheckControl" LastActivationTimeStamp="12/18/2020 15:30:15" />
+            </LayoutAnchorablePane>
+          </LayoutAnchorablePaneGroup>
+        </LayoutPanel>
+        <LayoutAnchorablePaneGroup Orientation="Vertical" DockWidth="252">
+          <LayoutAnchorablePane Id="0527ff07-b1b1-4b7f-b455-8b7f3864a95a" DockWidth="252" DockHeight="0.657195596281891*">
+            <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="通道#0" IsSelected="True" ContentId="tool_TerminalControl_0" LastActivationTimeStamp="12/19/2020 20:09:28" />
+          </LayoutAnchorablePane>
+          <LayoutAnchorablePane Id="d2164c42-90bd-4e48-a107-b54de5c19e1e" />
+          <LayoutAnchorablePane DockHeight="1.34280440371811*">
+            <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="通道#5" IsSelected="True" ContentId="tool_TerminalControl_5" LastActivationTimeStamp="12/19/2020 20:41:03" />
+          </LayoutAnchorablePane>
+        </LayoutAnchorablePaneGroup>
+      </LayoutPanel>
+    </RootPanel>
+    <TopSide />
+    <RightSide />
+    <LeftSide />
+    <BottomSide />
+    <FloatingWindows>
+      <LayoutAnchorableFloatingWindow>
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" FloatingWidth="346" FloatingHeight="300" FloatingLeft="466" FloatingTop="164">
+          <LayoutAnchorablePane Id="a4e0e8e6-5887-4e1b-80f3-e4128b4b97ae" FloatingWidth="346" FloatingHeight="300" FloatingLeft="466" FloatingTop="164" />
+        </LayoutAnchorablePaneGroup>
+      </LayoutAnchorableFloatingWindow>
+      <LayoutAnchorableFloatingWindow>
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" FloatingWidth="460" FloatingHeight="560" FloatingLeft="156" FloatingTop="156">
+          <LayoutAnchorablePane Id="83dc99d6-3738-456a-a74c-6daf30134470" FloatingWidth="460" FloatingHeight="560" FloatingLeft="156" FloatingTop="156" />
+        </LayoutAnchorablePaneGroup>
+      </LayoutAnchorableFloatingWindow>
+      <LayoutAnchorableFloatingWindow>
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" FloatingWidth="300" FloatingHeight="300" FloatingLeft="52" FloatingTop="52">
+          <LayoutAnchorablePane Id="e7bc1aa8-e03d-4d9f-996c-242c09e5a91c" FloatingWidth="300" FloatingHeight="300" FloatingLeft="52" FloatingTop="52" />
+        </LayoutAnchorablePaneGroup>
+      </LayoutAnchorableFloatingWindow>
+      <LayoutAnchorableFloatingWindow>
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" FloatingWidth="460" FloatingHeight="236" FloatingLeft="152" FloatingTop="226">
+          <LayoutAnchorablePane Id="76539271-89f4-4387-92a0-f90dfb11dcd5" FloatingWidth="460" FloatingHeight="236" FloatingLeft="152" FloatingTop="226" />
+        </LayoutAnchorablePaneGroup>
+      </LayoutAnchorableFloatingWindow>
+      <LayoutAnchorableFloatingWindow>
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" FloatingWidth="800" FloatingHeight="600" FloatingLeft="104" FloatingTop="104">
+          <LayoutAnchorablePane Id="0bc6ea03-d871-4a71-a0fa-b925aaeaf1c3" FloatingWidth="800" FloatingHeight="600" FloatingLeft="104" FloatingTop="104" />
+        </LayoutAnchorablePaneGroup>
+      </LayoutAnchorableFloatingWindow>
+      <LayoutAnchorableFloatingWindow>
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" FloatingWidth="800" FloatingHeight="480" FloatingLeft="104" FloatingTop="104">
+          <LayoutAnchorablePane Id="9fdcf304-a8cf-4fe2-8015-2a5706337ceb" FloatingWidth="800" FloatingHeight="480" FloatingLeft="104" FloatingTop="104" />
+        </LayoutAnchorablePaneGroup>
+      </LayoutAnchorableFloatingWindow>
+      <LayoutAnchorableFloatingWindow>
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" DockHeight="307.76" FloatingWidth="900" FloatingHeight="529" FloatingLeft="155" FloatingTop="101">
+          <LayoutAnchorablePane Id="2beb9558-f347-40ef-82c8-2969663d9482" DockHeight="307.76" FloatingWidth="900" FloatingHeight="529" FloatingLeft="155" FloatingTop="101" />
+        </LayoutAnchorablePaneGroup>
+      </LayoutAnchorableFloatingWindow>
+      <LayoutAnchorableFloatingWindow>
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" FloatingWidth="300" FloatingHeight="200" FloatingLeft="104" FloatingTop="104">
+          <LayoutAnchorablePane Id="4a2f31d2-8e04-45c8-be9d-fd151bc0b145" FloatingWidth="300" FloatingHeight="200" FloatingLeft="104" FloatingTop="104" />
+        </LayoutAnchorablePaneGroup>
+      </LayoutAnchorableFloatingWindow>
+    </FloatingWindows>
+    <Hidden>
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="发现并替换" IsSelected="True" ContentId="tool_FindReplaceWindow" FloatingLeft="52" FloatingTop="52" FloatingWidth="300" FloatingHeight="300" LastActivationTimeStamp="12/19/2020 19:49:02" PreviousContainerId="e7bc1aa8-e03d-4d9f-996c-242c09e5a91c" PreviousContainerIndex="0" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="示波器" IsSelected="True" ContentId="tool_OscilloscopeControl" FloatingLeft="104" FloatingTop="104" FloatingWidth="800" FloatingHeight="600" LastActivationTimeStamp="12/19/2020 19:49:02" PreviousContainerId="0bc6ea03-d871-4a71-a0fa-b925aaeaf1c3" PreviousContainerIndex="0" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="三维可视化" IsSelected="True" ContentId="tool_Visualization3DToolControl" FloatingLeft="104" FloatingTop="104" FloatingWidth="800" FloatingHeight="480" LastActivationTimeStamp="12/19/2020 19:49:02" PreviousContainerId="9fdcf304-a8cf-4fe2-8015-2a5706337ceb" PreviousContainerIndex="0" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="EtherCAT设备@端口0，地址2" IsSelected="True" ContentId="tool_EtherCATDeviceControl_4278190082" FloatingLeft="155" FloatingTop="101" FloatingWidth="900" FloatingHeight="529" LastActivationTimeStamp="12/19/2020 19:49:02" PreviousContainerId="2beb9558-f347-40ef-82c8-2969663d9482" PreviousContainerIndex="0" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="通道#7" IsSelected="True" ContentId="tool_TerminalControl_7" LastActivationTimeStamp="12/19/2020 19:49:02" PreviousContainerId="d2164c42-90bd-4e48-a107-b54de5c19e1e" PreviousContainerIndex="0" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="模拟量IO状态(输入：0，输出：0)" IsSelected="True" ContentId="tool_AnalogueIOControl" FloatingLeft="104" FloatingTop="104" FloatingWidth="300" FloatingHeight="200" LastActivationTimeStamp="12/19/2020 19:49:02" PreviousContainerId="4a2f31d2-8e04-45c8-be9d-fd151bc0b145" PreviousContainerIndex="0" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="数字I/O状态 (输入: 0-31,  I/O: 8-31)    " IsSelected="True" ContentId="tool_DigitalIOControl" FloatingLeft="152" FloatingTop="226" FloatingWidth="460" FloatingHeight="236" LastActivationTimeStamp="12/19/2020 19:49:02" PreviousContainerId="76539271-89f4-4387-92a0-f90dfb11dcd5" PreviousContainerIndex="0" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="智能驱动" IsSelected="True" ContentId="tool_IntelligentDrivesControl" FloatingLeft="156" FloatingTop="156" FloatingWidth="460" FloatingHeight="560" LastActivationTimeStamp="12/19/2020 19:49:02" PreviousContainerId="83dc99d6-3738-456a-a74c-6daf30134470" PreviousContainerIndex="0" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="轴参数" IsSelected="True" ContentId="tool_AxisParametersControl" FloatingLeft="466" FloatingTop="164" FloatingWidth="346" FloatingHeight="300" LastActivationTimeStamp="12/19/2020 19:49:02" PreviousContainerId="a4e0e8e6-5887-4e1b-80f3-e4128b4b97ae" PreviousContainerIndex="0" />
+    </Hidden>
+  </LayoutRoot>
+</MotionPerfectLayout>

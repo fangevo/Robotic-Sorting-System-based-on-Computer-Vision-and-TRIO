@@ -1,0 +1,23 @@
+
+WHILE TRUE
+    IF IN(31)=1 THEN
+        CANCEL(0)
+        CANCEL(1)
+        STOP "SIFU_LOOP"
+'        RUN "STOPSIFU",10
+        GOSUB sifuchuangan
+
+ENDIF
+WEND
+
+sifuchuangan:
+BASE(0)
+CANCEL(0)
+CANCEL(1)
+WAIT IDLE
+MOVEABS(-145)
+WAIT IDLE
+WA(120000)
+WAIT IDLE
+RUN "SIFU_LOOP",12
+RETURN

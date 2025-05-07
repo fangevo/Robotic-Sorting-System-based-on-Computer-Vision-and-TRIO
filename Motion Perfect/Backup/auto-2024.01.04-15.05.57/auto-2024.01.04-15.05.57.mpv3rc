@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contents Version="1">
+  <Content Name="Project">
+    <Project>
+      <Items>
+        <Item Type="textFile" Name="EC_EXTEND" Id="31245ed2-048f-46ca-b2c8-20afe0905333" />
+        <Item Type="mcConfig" Name="MC_CONFIG" Id="07173d49-e71b-461c-8968-2bc901d90617" />
+        <Item Type="basic" Name="GO" Id="2bb2c50c-ad31-4ccf-94dd-3f1dbe575c6c" />
+        <Item Type="basic" Name="GO1" Id="5f8ce205-4678-45dc-832f-e660085f6360" />
+        <Item Type="basic" Name="CANCEL" Id="307eb9fd-938e-4022-aa48-9e90b4fc3f49" />
+      </Items>
+    </Project>
+  </Content>
+</Contents>
